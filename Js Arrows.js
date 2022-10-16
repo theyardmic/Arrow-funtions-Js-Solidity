@@ -1,3 +1,4 @@
+ //Arrow Function with One Argument
 let greet = x => console.log(x);
 greet('Hello'); // Hello 
 
