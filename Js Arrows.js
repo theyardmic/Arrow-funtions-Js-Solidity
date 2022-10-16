@@ -12,6 +12,7 @@ let welcome = (age < 18) ?
 
 welcome(); // Baby
 
+//Multiline Arrow Functions
 let sum = (a, b) => {
     let result = a + b;
     return result;
