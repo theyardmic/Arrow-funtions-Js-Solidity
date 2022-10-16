@@ -3,7 +3,7 @@ let greet = x => console.log(x);
 greet('Hello'); // Hello 
 
 
-
+// Arrow Function as an Expression
 let age = 5;
 
 let welcome = (age < 18) ?
