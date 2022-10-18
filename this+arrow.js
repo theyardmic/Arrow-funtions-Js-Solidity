@@ -13,7 +13,8 @@ function Person() {
             console.log(this);
         }
 
-        innerFunc();
+        innerFunc(); //calling the nested function
+        
 
     }
 }
